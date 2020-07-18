@@ -8,52 +8,52 @@
 "scope" : "https://linktr.ee/pptv",
 "display" : "fullscreen",
 "start_url" : "https://linktr.ee/pptv",
-"short_name" : "Azures",
-"description" : "",
+"short_name" : "PPTV Sport",
+"description" : "Live Streaming Sports",
 "orientation" : "portrait",
-"background_color": "#000000",
-"theme_color": "#000000",
+"background_color": "#0c153b",
+"theme_color": "#0c153b",
 "generated" : "true",
-  "icons": [
+"icons": [
     {
-      "src": "app/icons/icon-72x72.png",
+      "src": "https://3.bp.blogspot.com/-6KQnNhxmUsA/Xu4J4WpBM6I/AAAAAAAABMs/GiYgVPY8jT4EmDIkucI9i04-MQl-U3MMQCLcBGAsYHQ/s1600/pptv.png",
       "sizes": "72x72",
-      "type": "https://3.bp.blogspot.com/-6KQnNhxmUsA/Xu4J4WpBM6I/AAAAAAAABMs/GiYgVPY8jT4EmDIkucI9i04-MQl-U3MMQCLcBGAsYHQ/s1600/pptv.png"
+      "type": "image/png"
     },
     {
-      "src": "app/icons/icon-96x96.png",
+      "src": "https://3.bp.blogspot.com/-6KQnNhxmUsA/Xu4J4WpBM6I/AAAAAAAABMs/GiYgVPY8jT4EmDIkucI9i04-MQl-U3MMQCLcBGAsYHQ/s1600/pptv.png",
       "sizes": "96x96",
-      "type": "https://3.bp.blogspot.com/-6KQnNhxmUsA/Xu4J4WpBM6I/AAAAAAAABMs/GiYgVPY8jT4EmDIkucI9i04-MQl-U3MMQCLcBGAsYHQ/s1600/pptv.png"
+      "type": "image/png"
     },
     {
-      "src": "app/icons/icon-128x128.png",
+      "src": "https://3.bp.blogspot.com/-6KQnNhxmUsA/Xu4J4WpBM6I/AAAAAAAABMs/GiYgVPY8jT4EmDIkucI9i04-MQl-U3MMQCLcBGAsYHQ/s1600/pptv.png",
       "sizes": "128x128",
-      "type": "https://3.bp.blogspot.com/-6KQnNhxmUsA/Xu4J4WpBM6I/AAAAAAAABMs/GiYgVPY8jT4EmDIkucI9i04-MQl-U3MMQCLcBGAsYHQ/s1600/pptv.png"
+      "type": "image/png"
     },
     {
-      "src": "app/icons/icon-144x144.png",
+      "src": "https://3.bp.blogspot.com/-6KQnNhxmUsA/Xu4J4WpBM6I/AAAAAAAABMs/GiYgVPY8jT4EmDIkucI9i04-MQl-U3MMQCLcBGAsYHQ/s1600/pptv.png",
       "sizes": "144x144",
-      "type": "https://3.bp.blogspot.com/-6KQnNhxmUsA/Xu4J4WpBM6I/AAAAAAAABMs/GiYgVPY8jT4EmDIkucI9i04-MQl-U3MMQCLcBGAsYHQ/s1600/pptv.png"
+      "type": "image/png"
     },
     {
-      "src": "app/icons/icon-152x152.png",
+      "src": "https://3.bp.blogspot.com/-6KQnNhxmUsA/Xu4J4WpBM6I/AAAAAAAABMs/GiYgVPY8jT4EmDIkucI9i04-MQl-U3MMQCLcBGAsYHQ/s1600/pptv.png",
       "sizes": "152x152",
-      "type": "https://3.bp.blogspot.com/-6KQnNhxmUsA/Xu4J4WpBM6I/AAAAAAAABMs/GiYgVPY8jT4EmDIkucI9i04-MQl-U3MMQCLcBGAsYHQ/s1600/pptv.png"
+      "type": "image/png"
     },
     {
-      "src": "app/icons/icon-192x192.png",
+      "src": "https://3.bp.blogspot.com/-6KQnNhxmUsA/Xu4J4WpBM6I/AAAAAAAABMs/GiYgVPY8jT4EmDIkucI9i04-MQl-U3MMQCLcBGAsYHQ/s1600/pptv.png",
       "sizes": "192x192",
-      "type": "https://3.bp.blogspot.com/-6KQnNhxmUsA/Xu4J4WpBM6I/AAAAAAAABMs/GiYgVPY8jT4EmDIkucI9i04-MQl-U3MMQCLcBGAsYHQ/s1600/pptv.png"
+      "type": "image/png"
     },
     {
-      "src": "app/icons/icon-384x384.png",
+      "src": "https://3.bp.blogspot.com/-6KQnNhxmUsA/Xu4J4WpBM6I/AAAAAAAABMs/GiYgVPY8jT4EmDIkucI9i04-MQl-U3MMQCLcBGAsYHQ/s1600/pptv.png",
       "sizes": "384x384",
-      "type": "https://3.bp.blogspot.com/-6KQnNhxmUsA/Xu4J4WpBM6I/AAAAAAAABMs/GiYgVPY8jT4EmDIkucI9i04-MQl-U3MMQCLcBGAsYHQ/s1600/pptv.png"
+      "type": "image/png"
     },
     {
-      "src": "app/icons/icon-512x512.png",
+      "src": "https://3.bp.blogspot.com/-6KQnNhxmUsA/Xu4J4WpBM6I/AAAAAAAABMs/GiYgVPY8jT4EmDIkucI9i04-MQl-U3MMQCLcBGAsYHQ/s1600/pptv.png",
       "sizes": "512x512",
-      "type": "https://3.bp.blogspot.com/-6KQnNhxmUsA/Xu4J4WpBM6I/AAAAAAAABMs/GiYgVPY8jT4EmDIkucI9i04-MQl-U3MMQCLcBGAsYHQ/s1600/pptv.png"
+      "type": "image/png"
     }
   ]
 }
